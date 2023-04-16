@@ -1,0 +1,1 @@
+[satysfi-class-template](https://github.com/puripuri2100/satysfi-class-template)を前提とする
